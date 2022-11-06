@@ -117,3 +117,10 @@ main a:hover{
 img{
     width: 100%;
 }
+
+.jogos{
+    width: 80%;
+    height: 100%;
+    padding-left: 10%;
+    padding-top: 70px;
+}
